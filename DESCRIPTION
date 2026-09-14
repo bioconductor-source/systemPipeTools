@@ -1,6 +1,6 @@
 Package: systemPipeTools
 Title: Tools for data visualization
-Version: 1.21.0
+Version: 1.21.1
 Date: 2021-05-11
 Authors@R: c(
     person(given = "Daniela", family = "Cassol", role = c("aut", "cre"), email = "danicassol@gmail.com"),
@@ -40,3 +40,4 @@ VignetteBuilder: knitr
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Config/testthat/edition: 3
+PackageStatus: Deprecated
